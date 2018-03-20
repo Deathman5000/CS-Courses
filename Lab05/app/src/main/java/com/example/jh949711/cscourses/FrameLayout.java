@@ -4,9 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
-/**
- * Created by jh949711 on 3/19/18.
- */
+
 
 public class FrameLayout extends Activity {
     @Override

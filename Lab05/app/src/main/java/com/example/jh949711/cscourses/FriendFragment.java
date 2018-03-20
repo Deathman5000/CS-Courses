@@ -10,7 +10,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 /**
- * Created by jh949711 on 3/19/18.
+ * This deals with the orientation of the screen for the app
  */
 
 public class FriendFragment extends ListFragment {

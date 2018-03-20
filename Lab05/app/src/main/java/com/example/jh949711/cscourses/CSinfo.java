@@ -1,7 +1,7 @@
 package com.example.jh949711.cscourses;
 
 /**
- * Created by jh949711 on 3/19/18.
+ * This is the class that contains all of the info for the classes
  */
 
 public class CSinfo {

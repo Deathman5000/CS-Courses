@@ -5,9 +5,6 @@ import android.content.res.Configuration;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
-/**
- * Created by jh949711 on 3/19/18.
- */
 
 public class DetailsActivity extends Activity {
     @Override

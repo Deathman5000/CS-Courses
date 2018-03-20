@@ -11,7 +11,7 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 
 /**
- * Created by jh949711 on 3/19/18.
+ * This creates the details for the fragment
  */
 
 public class DetailsFragment extends Fragment {
@@ -33,8 +33,8 @@ public class DetailsFragment extends Fragment {
         ScrollView scrollView = new ScrollView(getActivity());
         TextView text = new TextView(getActivity());
         text.setTextSize(15);
-        text.setBackgroundColor(Color.MAGENTA);
-        text.setTextColor(Color.WHITE);
+        text.setBackgroundColor(Color.RED);
+        text.setTextColor(Color.BLUE);
         int padding = 20;
         scrollView.setPadding(padding,padding,padding,padding);
         scrollView.addView(text);
